@@ -1,0 +1,60 @@
+body{
+  background-image: url("/home/codingmart/Desktop/two/Images/bg.jpg");
+
+}
+
+img{
+
+  height:20px;
+  width:20px;
+  padding-top:6px;
+  padding-left:22px;
+  display: inline;
+
+}
+button{
+  margin-left: 60px;
+
+}
+
+
+.imga{
+height:100px;
+width:100px;
+
+}
+.sys{
+
+  display:inline-block;
+}
+
+.btn{
+  margin-top: 40px;
+}
+
+
+.one{
+margin-left:30%;
+margin-top: 120px;
+  height:312px;
+  width: 500px;
+text-align: center;
+background-image: url("/home/codingmart/Desktop/two/Images/router.png");
+background-position: center;
+background-size: 500px;
+display: inline-block;
+}
+
+#btn1{
+  margin-left: 80%;
+}
+
+#two{
+
+margin-left:30%;
+
+  height:30px;
+  width: 500px;
+border:2px solid;
+border-radius: 8px;
+}
